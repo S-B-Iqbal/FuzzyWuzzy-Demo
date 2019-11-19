@@ -24,7 +24,7 @@ Implementation of various Fuzzy Search Algorithms for String Matching
     - Some more Cleaning
         - Stop Word Removal
         - Spell Correction
-- Model Selection
+- Model Comparison
     - Sample Selection from Test Set
     - Model 1
     - Model 2
