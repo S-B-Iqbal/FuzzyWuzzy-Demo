@@ -1,5 +1,11 @@
 # The-subtle-art-of-not-giving-a-Fuzz (In Progress)
+
 Implementation of various Fuzzy Search Algorithms for String Matching
+
+# Dataset
+
+- The dataset's 'COnsolidated Codes' sheet contains codes for sevral products.
+- The objective of this repository is to link all the data in 'Dynamic Data' sheet to its respective 'Code' and 'Description'
 
 ## Workflow
 
