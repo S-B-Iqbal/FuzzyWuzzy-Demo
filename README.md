@@ -4,7 +4,7 @@ Implementation of various Fuzzy Search Algorithms for String Matching
 
 # Dataset
 
-- The dataset's 'Consolidated Codes' sheet contains codes for sevral products.
+- The dataset's 'Consolidated Codes' sheet contains codes for several products.
 - The objective of this repository is to link all the data in 'Dynamic Data' sheet to its respective 'Code' and 'Description'
 
 ## Workflow
